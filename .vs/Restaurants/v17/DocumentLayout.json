@@ -3,16 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\Ilkin\\Desktop\\Restaurants\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{87AB68AB-B6A3-484F-A087-FD7640776731}|Restaurants.Infrastructure\\Restaurants.Infrastructure.csproj|c:\\users\\ilkin\\desktop\\restaurants\\restaurants.infrastructure\\seeders\\restaurantseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87AB68AB-B6A3-484F-A087-FD7640776731}|Restaurants.Infrastructure\\Restaurants.Infrastructure.csproj|solutionrelative:restaurants.infrastructure\\seeders\\restaurantseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DC40EF1-928E-4F6E-B00A-51B2F29BBB08}|Restaurants.API\\Restaurants.API.csproj|c:\\users\\ilkin\\desktop\\restaurants\\restaurants.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DC40EF1-928E-4F6E-B00A-51B2F29BBB08}|Restaurants.API\\Restaurants.API.csproj|solutionrelative:restaurants.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87AB68AB-B6A3-484F-A087-FD7640776731}|Restaurants.Infrastructure\\Restaurants.Infrastructure.csproj|c:\\users\\ilkin\\desktop\\restaurants\\restaurants.infrastructure\\extensions\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87AB68AB-B6A3-484F-A087-FD7640776731}|Restaurants.Infrastructure\\Restaurants.Infrastructure.csproj|solutionrelative:restaurants.infrastructure\\extensions\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87AB68AB-B6A3-484F-A087-FD7640776731}|Restaurants.Infrastructure\\Restaurants.Infrastructure.csproj|c:\\users\\ilkin\\desktop\\restaurants\\restaurants.infrastructure\\persistance\\restaurantdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87AB68AB-B6A3-484F-A087-FD7640776731}|Restaurants.Infrastructure\\Restaurants.Infrastructure.csproj|solutionrelative:restaurants.infrastructure\\persistance\\restaurantdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DC40EF1-928E-4F6E-B00A-51B2F29BBB08}|Restaurants.API\\Restaurants.API.csproj|c:\\users\\ilkin\\desktop\\restaurants\\restaurants.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4DC40EF1-928E-4F6E-B00A-51B2F29BBB08}|Restaurants.API\\Restaurants.API.csproj|solutionrelative:restaurants.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{29910002-A7B6-40A1-B0FB-5C9776015738}|Restaurants.Domain\\Restaurants.Domain.csproj|c:\\users\\ilkin\\desktop\\restaurants\\restaurants.domain\\entities\\dish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{29910002-A7B6-40A1-B0FB-5C9776015738}|Restaurants.Domain\\Restaurants.Domain.csproj|solutionrelative:restaurants.domain\\entities\\dish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{29910002-A7B6-40A1-B0FB-5C9776015738}|Restaurants.Domain\\Restaurants.Domain.csproj|c:\\users\\ilkin\\desktop\\restaurants\\restaurants.domain\\entities\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{29910002-A7B6-40A1-B0FB-5C9776015738}|Restaurants.Domain\\Restaurants.Domain.csproj|solutionrelative:restaurants.domain\\entities\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{29910002-A7B6-40A1-B0FB-5C9776015738}|Restaurants.Domain\\Restaurants.Domain.csproj|c:\\users\\ilkin\\desktop\\restaurants\\restaurants.domain\\entities\\restaurant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{29910002-A7B6-40A1-B0FB-5C9776015738}|Restaurants.Domain\\Restaurants.Domain.csproj|solutionrelative:restaurants.domain\\entities\\restaurant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29910002-A7B6-40A1-B0FB-5C9776015738}|Restaurants.Domain\\Restaurants.Domain.csproj|c:\\users\\ilkin\\desktop\\restaurants\\restaurants.domain\\entities\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29910002-A7B6-40A1-B0FB-5C9776015738}|Restaurants.Domain\\Restaurants.Domain.csproj|solutionrelative:restaurants.domain\\entities\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +46,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "Address.cs",
               "DocumentMoniker": "C:\\Users\\Ilkin\\Desktop\\Restaurants\\Restaurants.Domain\\Entities\\Address.cs",
               "RelativeDocumentMoniker": "Restaurants.Domain\\Entities\\Address.cs",
@@ -41,19 +61,84 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "RestaurantSeeder.cs",
+              "DocumentMoniker": "C:\\Users\\Ilkin\\Desktop\\Restaurants\\Restaurants.Infrastructure\\Seeders\\RestaurantSeeder.cs",
+              "RelativeDocumentMoniker": "Restaurants.Infrastructure\\Seeders\\RestaurantSeeder.cs",
+              "ToolTip": "C:\\Users\\Ilkin\\Desktop\\Restaurants\\Restaurants.Infrastructure\\Seeders\\RestaurantSeeder.cs",
+              "RelativeToolTip": "Restaurants.Infrastructure\\Seeders\\RestaurantSeeder.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T07:34:00.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Ilkin\\Desktop\\Restaurants\\Restaurants.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Restaurants.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\Ilkin\\Desktop\\Restaurants\\Restaurants.API\\appsettings.json",
+              "RelativeToolTip": "Restaurants.API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-04T06:35:56.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ServiceCollectionExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Ilkin\\Desktop\\Restaurants\\Restaurants.Infrastructure\\Extensions\\ServiceCollectionExtensions.cs",
+              "RelativeDocumentMoniker": "Restaurants.Infrastructure\\Extensions\\ServiceCollectionExtensions.cs",
+              "ToolTip": "C:\\Users\\Ilkin\\Desktop\\Restaurants\\Restaurants.Infrastructure\\Extensions\\ServiceCollectionExtensions.cs",
+              "RelativeToolTip": "Restaurants.Infrastructure\\Extensions\\ServiceCollectionExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T06:02:01.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ilkin\\Desktop\\Restaurants\\Restaurants.API\\Program.cs",
+              "RelativeDocumentMoniker": "Restaurants.API\\Program.cs",
+              "ToolTip": "C:\\Users\\Ilkin\\Desktop\\Restaurants\\Restaurants.API\\Program.cs",
+              "RelativeToolTip": "Restaurants.API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T06:00:45.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RestaurantDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Ilkin\\Desktop\\Restaurants\\Restaurants.Infrastructure\\Persistance\\RestaurantDbContext.cs",
+              "RelativeDocumentMoniker": "Restaurants.Infrastructure\\Persistance\\RestaurantDbContext.cs",
+              "ToolTip": "C:\\Users\\Ilkin\\Desktop\\Restaurants\\Restaurants.Infrastructure\\Persistance\\RestaurantDbContext.cs",
+              "RelativeToolTip": "Restaurants.Infrastructure\\Persistance\\RestaurantDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T15:11:23.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Dish.cs",
               "DocumentMoniker": "C:\\Users\\Ilkin\\Desktop\\Restaurants\\Restaurants.Domain\\Entities\\Dish.cs",
               "RelativeDocumentMoniker": "Restaurants.Domain\\Entities\\Dish.cs",
               "ToolTip": "C:\\Users\\Ilkin\\Desktop\\Restaurants\\Restaurants.Domain\\Entities\\Dish.cs",
               "RelativeToolTip": "Restaurants.Domain\\Entities\\Dish.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-03T14:37:51.867Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Restaurant.cs",
               "DocumentMoniker": "C:\\Users\\Ilkin\\Desktop\\Restaurants\\Restaurants.Domain\\Entities\\Restaurant.cs",
               "RelativeDocumentMoniker": "Restaurants.Domain\\Entities\\Restaurant.cs",
